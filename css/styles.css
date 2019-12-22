@@ -1,12 +1,43 @@
 body {
   background-color: #ffffff;
   color: #626262;
+  font-family: 'Playfair Display', serif;
 }
 .site-nav .link1 {
   color: #03a9f3;
+  font-size: 14px;
 }
 .site-nav .link {
   color: #626262;
+  font-size: 14px;
+}
+
+.hero .title {
+  font-size: 30px;
+  color: #626262;
+  font-family: 'Playfair Display';
+  font-weight: 400;
+}
+
+.hero .classification {
+  color: #b4ad9e;
+}
+.hero .description {
+  font-size: 14px;
+  line-height: 24px;
+  color: #626262;
+  font-family: 'Playfair Display';
+  font-weight: 400;
+}
+
+.site-nav .link1:hover,
+.site-nav .link1:focus {
+  color: #212121;
+}
+
+.site-nav .link:hover,
+.site-nav .link:focus {
+  color: #212121;
 }
 
 /* text b4ad9e*/
