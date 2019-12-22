@@ -15,18 +15,21 @@ body {
 .hero .title {
   font-size: 30px;
   color: #626262;
-  font-family: 'Playfair Display';
+  font-family: 'Playfair Display', serif;
   font-weight: 400;
 }
 
 .hero .classification {
+  font-size: 14px;
   color: #b4ad9e;
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: 300;
 }
 .hero .description {
   font-size: 14px;
   line-height: 24px;
   color: #626262;
-  font-family: 'Playfair Display';
+  font-family: 'Playfair Display', serif;
   font-weight: 400;
 }
 
