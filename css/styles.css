@@ -6,17 +6,16 @@ body {
 .site-nav .link1 {
   color: #03a9f3;
   font-size: 14px;
+  line-height: 24px;
+  font-weight: 400;
+  text-align: center;
 }
-.site-nav .link {
+.site-nav .link2 {
   color: #626262;
   font-size: 14px;
-}
-
-.hero .title {
-  font-size: 30px;
-  color: #626262;
-  font-family: 'Playfair Display', serif;
+  line-height: 24px;
   font-weight: 400;
+  text-align: center;
 }
 
 .hero .classification {
@@ -25,6 +24,20 @@ body {
   font-family: 'Ubuntu', sans-serif;
   font-weight: 300;
 }
+
+.hero .classification {
+    font-size: 14px;
+    color: #b4ad9e;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 300;
+  }
+.hero .title {
+  font-size: 30px;
+  color: #626262;
+  font-family: 'Playfair Display', serif;
+  font-weight: 400;
+}
+
 .hero .description {
   font-size: 14px;
   line-height: 24px;
@@ -42,7 +55,10 @@ body {
 .site-nav .link:focus {
   color: #212121;
 }
-
-/* text b4ad9e*/
-/*label 03a9f3*/
-/*label 2 c7c1b6*/
+.hero .button {
+font-size: 20px;
+line-height: 24px;
+color: #626262;
+font-family: "Playfair Display";
+font-weight: 400;
+}
