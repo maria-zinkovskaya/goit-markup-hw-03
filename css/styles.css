@@ -3,8 +3,9 @@ body {
   color: #626262;
   font-family: 'Playfair Display', serif;
 }
+
 .site-nav .link1 {
-  color: #03a9f3;
+  color: #03a9f4;
   font-size: 14px;
   line-height: 24px;
   font-weight: 400;
@@ -26,11 +27,11 @@ body {
 }
 
 .hero .classification {
-    font-size: 14px;
-    color: #b4ad9e;
-    font-family: 'Ubuntu', sans-serif;
-    font-weight: 300;
-  }
+  font-size: 14px;
+  color: #b4ad9e;
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: 300;
+}
 .hero .title {
   font-size: 30px;
   color: #626262;
@@ -48,17 +49,17 @@ body {
 
 .site-nav .link1:hover,
 .site-nav .link1:focus {
-  color: #212121;
+  color: #2121ff;
 }
 
-.site-nav .link:hover,
-.site-nav .link:focus {
-  color: #212121;
+.site-nav .link2:hover,
+.site-nav .link2:focus {
+  color: #2121ff;
 }
 .hero .button {
-font-size: 20px;
-line-height: 24px;
-color: #626262;
-font-family: "Playfair Display";
-font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+  color: #626262;
+  font-family: 'Playfair Display';
+  font-weight: 400;
 }
